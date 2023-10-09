@@ -397,3 +397,11 @@ th:last-child {
   top: 0%;
   z-index: -1;
 }
+
+
+@media (max-width: 768px) {
+  .on-sm-screen {
+    text-align: center;
+    font-size: 18px;
+  }
+}

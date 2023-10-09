@@ -22,8 +22,8 @@ const Banner = () => {
                             <h1 className="text-4xl lg:text-7xl font-bold text-white md:4px md:text-start text-center">
                                 Turning Ideas<br /> into Dapps
                             </h1>
-                            <p className='mb-5 text-white text-4xl'>Your Blockchain Partner</p>
-                            <p className='text-white md:text-lg font-normal mb-10 md:text-start text-center'>We specialize in creating, launching, and maintaining<br /> innovative decentralized applications (DApps) for <br /> businesses and individuals, ensuring their success <br/> in the blockchain ecosystem. Our native token is $WBUK</p>
+                            <p className='mb-5 text-white text-4xl on-sm-screen'>Your Blockchain Partner</p>
+                            <p className='text-white md:text-lg font-normal mb-10 md:text-start text-center'>We specialize in creating, launching, and maintaining innovative decentralized applications (DApps) for businesses and individuals, ensuring their success <br/> in the blockchain ecosystem. Our native token is $WBUK</p>
                             <div className='flex align-middle justify-center md:justify-start'>
                                 <button className='text-xl font-semibold text-white py-4 px-6 lg:px-12 navbutton mr-6'>Get Started</button>
                                 <button onClick={() => setOpen(true)} className='bg-transparent flex justify-center items-center text-white'><Image src={'/images/Banner/playbutton.svg'} alt="button-image" className='mr-3' width={47} height={47} />How it work</button>
