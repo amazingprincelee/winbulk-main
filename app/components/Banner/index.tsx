@@ -30,7 +30,7 @@ const Banner = () => {
                             </div>
                         </div>
 
-                        <div className='col-span-5 lg:-m-48'>
+                        <div className='col-span-5 lg:-m-48 dissapear-on-sm'>
                             <div className='arrowThree'></div>
                             <div className='arrowFour'></div>
                             <div className='arrowFive'></div>

@@ -404,4 +404,8 @@ th:last-child {
     text-align: center;
     font-size: 18px;
   }
+
+  .dissapear-on-sm {
+    display: none;
+  }
 }
