@@ -22,10 +22,11 @@ const products: ProductType[] = [
 ]
 
 const socialLinks: Social[] = [
-  { imgsrc: '/images/Footer/insta.svg', href: "https://instagram.com/" },
-  { imgsrc: '/images/Footer/dribble.svg', href: "https://dribble.com/" },
-  { imgsrc: '/images/Footer/twitter.svg', href: "https://twitter.com/" },
-  { imgsrc: '/images/Footer/youtube.svg', href: "https://youtube.com/" },
+  { imgsrc: '/images/Footer/linkedin.png', href: "https://www.linkedin.com/company/96406140" },
+  { imgsrc: '/images/Footer/discord.png', href: "https://discord.gg/Kcrw9PRTsA" },
+  { imgsrc: '/images/Footer/fb.png', href: "https://web.facebook.com/OfficialWinBulk" },
+  { imgsrc: '/images/Footer/twitter.svg', href: "https://twitter.com/Winbulk_Token" },
+  { imgsrc: '/images/Footer/youtube.svg', href: "https://www.youtube.com/@winbulk" },
 ]
 
 
