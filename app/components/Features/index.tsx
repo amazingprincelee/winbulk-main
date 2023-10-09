@@ -49,7 +49,7 @@ const Features = () => {
                                 </div>
                                 <h5 className="text-offwhite text-lg font-medium mb-3">{items.heading}</h5>
                                 <p className="text-lightblue text-sm font-normal mb-3">{items.subheading}</p>
-                                <a href={items.launchUrl} className="bg-white text-black px-4 py-2 mt-5  bottom-2 left-2 transition duration-300 hover:bg-blue hover:text-white">Launch Dapp</a>
+                                <a href={items.launchUrl} className=" text-l font-semibold text-white py-2 px-2 lg:px-6 navbutton mr-3">Launch Dapp</a>
                             </div>
                         ))}
                     </div>
