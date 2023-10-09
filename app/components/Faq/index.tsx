@@ -10,16 +10,21 @@ interface faqdata {
 
 const faqdata: faqdata[] = [
     {
-        heading: "1. Is $WBUK tradable?",
-        subheading: 'At the core of our mission lies the commitment to make $WBUK readily tradable and accessible to a broad audience. Our strategic approach involves a deliberate and systematic listing process, one exchange at a time. The $WBUK you are holding now is very valuable'
+        heading: "1. What is WinDapp About?",
+        subheading: 'Windapp is a platform that bridges the gap between developers with innovative ideas and those with the skills to bring these ideas to fruition.'
     },
     {
-        heading: "2. How can i partner with Winbulk to handle my utility maintenance and development?",
-        subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
+        heading: "2. Who can use the WinDapp?",
+        subheading: 'Windapp is accessible to a wide range of users, including. Developers with creative ideas seeking collaboration, Skilled developers looking to join projects and bring ideas to life and Innovators and visionaries interested in connecting with capable developers '
+    },
+   
+    {
+        heading: "3. How useful is the $WBUK?",
+        subheading: 'At the core of our mission lies the commitment to make $WBUK readily tradable and accessible to a broad audience. Our strategic approach involves a deliberate and systematic listing process, one exchange at a time'
     },
     {
-        heading: "3. How can i participate in the Winplay game?",
-        subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
+        heading: "4. $WBUK be used in Windapp?",
+        subheading: 'Indeed, the WinBulk token ($WBUK) serves as the primary currency within the Windapp ecosystem and the broader WinBulk community'
     },
 
 ]
@@ -28,7 +33,7 @@ const Faq = () => {
     return (
         <div className="my-20 px-6" id="faq-section">
             <h3 className="text-center text-3xl lg:text-5xl font-bold text-offwhite mb-3">Frequently Asked And Question</h3>
-            <p className="text-center lg:text-lg font-normal text-bluish">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has <br /> been the industry standard dummy text ever since the 1500s,</p>
+            <p className="text-center lg:text-lg font-normal text-bluish"> Our frequently asked questions section provides answers to common queries <br /> Please feel free to reach out to us if you cannot find an answer to your question.</p>
 
             <div className="mx-auto max-w-7xl">
                 <div className="grid lg:grid-cols-2">
