@@ -16,7 +16,7 @@ const Trade = () => {
 
                 <div>
                     <h3 className="text-3xl lg:text-5xl font-semibold text-offwhite mb-6 text-center sm:text-start">About WINBULK</h3>
-                    <p className="lg:text-lg font-normal text-lightblue mb-16 text-center sm:text-start">Winbulk is a pioneering company in the blockchain space, dedicated to driving innovation and empowering businesses and individuals through decentralized applications (DApps). Founded in July 2023, they are committed to revolutionizing the blockchain ecosystem. Here's what sets Winbulk apart <br /> <a className="mt-2" href="#" style={{color: "white"}}>Read more...</a></p>
+                    <p className="lg:text-lg font-normal text-lightblue mb-16 text-center sm:text-start">Winbulk is a pioneering company in the blockchain space, dedicated to driving innovation and empowering businesses and individuals through decentralized applications (DApps). Founded in July 2023, they are committed to revolutionizing the blockchain ecosystem. Here's what sets Winbulk apart <br /> <a className="mt-2" href="https://winbulk.com/about" style={{color: "white"}}>Read more...</a></p>
                     
                     <div className="flex justify-between">
                         <Image src={'/images/Trade/mac.svg'} alt="macOS-image" width={61} height={105} />
