@@ -16,7 +16,7 @@ const featuresdata: featuresdata[] = [
     },
     {
         imgSrc: '/images/Features/featureTwo.svg',
-        heading: 'Staking',
+        heading: 'WinStake',
         subheading: 'Allows you to maximize your $WBUK holdings',
         launchUrl: '/staking',
     },

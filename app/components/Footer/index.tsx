@@ -17,7 +17,7 @@ const products: ProductType[] = [
   {
     id: 1,
     section: "Useful Links",
-    link: ['Home', 'Winplay', 'Staking', 'Windapp'],
+    link: ['Home', 'Winplay', 'WinStake', 'Windapp'],
   }
 ]
 
@@ -73,7 +73,7 @@ in the blockchain ecosystem. Our native token is $WBUK.</h3>
 
           <div className="col-span-4">
             <h3 className="text-white text-xl font-medium mb-9">Contact Us</h3>
-            <h4 className="text-offwhite text-sm font-normal mb-6 flex gap-2"><Image src={'/images/Footer/number.svg'} alt="number-icon" width={20} height={20} /><a href="https://t.me/OfficialWinbulk" target="_blank">Telegram Group</a></h4>
+            <h4 className="text-offwhite text-sm font-normal mb-6 flex gap-2"><Image src={'/images/Footer/telegram.png'} alt="number-icon" width={20} height={20} /><a href="https://t.me/OfficialWinbulk" target="_blank">Telegram Group</a></h4>
             <h4 className="text-offwhite text-sm font-normal mb-6 flex gap-2"><Image src={'/images/Footer/email.svg'} alt="email-icon" width={20} height={20} />team@winbulk.com</h4>
            
           </div>

@@ -17,6 +17,7 @@ const navigation: NavigationItem[] = [
     { name: 'TopHolders', href: '#exchange-section', current: false },
     { name: 'Ecosystem', href: '#features-section', current: false },
     { name: 'FAQ', href: '#faq-section', current: false },
+    { name: 'White Paper', href: 'https://drive.google.com/file/d/1r5KgjyMnAMNWdykfIdd_P4MLikqDocvh/view?usp=sharing', current: false },
 ]
 
 function classNames(...classes: string[]) {

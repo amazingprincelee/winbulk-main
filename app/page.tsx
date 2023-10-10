@@ -8,6 +8,7 @@ import Trade from './components/Trade/index';
 import Faq from './components/Faq/index';
 
 
+
 export default function Home() {
   return (
     <main>

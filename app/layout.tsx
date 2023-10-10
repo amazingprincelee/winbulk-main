@@ -5,10 +5,10 @@ import Footer from './components/Footer/index';
 
 
 export const metadata = {
-  title: 'WinDapp',
+  title: 'WinBulk',
   description: 'Turning Ideas into Dapps',
   icons: {
-    icon: '/logo.svg',
+    icon: '/logo.png',
   },
 }
 
